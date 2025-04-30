@@ -14,7 +14,8 @@
     "bootstrap": "^5.3.3",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.5",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-tournament-brackets": "^1.0.41"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
